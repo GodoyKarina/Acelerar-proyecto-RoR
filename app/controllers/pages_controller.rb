@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def index
   end
 
-  def gallery_info
+  def about
   end
 end
